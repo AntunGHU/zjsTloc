@@ -7,6 +7,8 @@ age + ruster    //144
 
 // age ostaje isti
 age + 1 //73    age ostaje isti = 72
+
+// age se promjenio!
 age = age + 1  // age se promjenio! i sad je 73
 age = 21    // age se promjenio! i sad je 21
 
