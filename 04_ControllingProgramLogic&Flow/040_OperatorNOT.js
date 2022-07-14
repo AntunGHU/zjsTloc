@@ -1,3 +1,7 @@
+// 7'06
+
+//app
+
 // ==================
 // EXAMPLE 1
 // ==================
@@ -22,3 +26,8 @@ if (flavor !== 'grape' && flavor !== 'cherry') {
 if (!(flavor === 'grape' || flavor === 'cherry')) {
 	console.log('WE ONLY HAVE GRAPE AND CHERRY!');
 }
+
+// ant
+// HAHAHA - opet je pusti "glas" za "get out of here" i "we don't have that flavor"
+// dvije if(()) male zagrade!
+// jos jedan dokaz da je js-kurs poslije py-a (osim vsc-ea) je i kompletan example-kod!

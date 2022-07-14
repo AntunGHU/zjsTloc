@@ -1,9 +1,26 @@
+// 4'14
+
+let rating = 2
+
+if (rating  === 3) {
+    console.log("you are superstar!")
+}
+else if (rating === 2) {
+    console.log("you meet expectation")
+}
+else {
+    console.log(" Invalid rating!")
+}
+
+// Kopirano s app
+
 // Performance Review
 // 3 - superstar
 // 2 - meets expectations
 // 1 - needs improvement
 // anything else - wtf?
-let rating = 2;
+
+rating = 2;
 
 if (rating === 3) {
 	console.log('YOU ARE A SUPERSTAR!');
@@ -34,3 +51,5 @@ else {
 		`Good Game.  Your score of ${userScore} did not beat the high score of ${highScore}`
 	);
 }
+
+// else (1) nije obavezan ali ako ga hocemo takodjer mora imati uvodni "if"

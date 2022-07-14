@@ -13,4 +13,4 @@ age = age + 1  // age se promjenio! i sad je 73
 age = 21    // age se promjenio! i sad je 21
 
 // pravila za imena: ne koristiti key-words npr "let", "document"; da su eksplanatorna; koristiti camelCase
-// ne mozemo deklariranu dinamicki ponovo deklarirati! u istom scope-u
+// ne mozemo deklariranu dinamicki ponovo deklarirati u istom scope-u!

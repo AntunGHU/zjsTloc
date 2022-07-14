@@ -18,8 +18,8 @@ str.slice(40)      // ' ' - prazan
 
 // replace
 let annoyingLaugh = 'teehee so funny! tehee'
-annoyingLaugh.replace('tehee', 'haha') // 'haha so funny! haha'
+annoyingLaugh.replace('tehee', 'haha') // 'haha so funny! tehee'
 "ha ha ha".replace('ha', 'hee') // 'hee ha ha' - mjenja samo prvu pojavu mathca
 "ha ha ha".replace('haa', 'hee') // 'ha ha ha' - haa nema pa sve ostaje isto
 
-// za kraj Ath malo ide na MDN kako bi pokazao kako ga koristiti. Nalazi "slice" i pokazuje da moramo pocetni index a [, endIndex] su opcijski (znacenje []).
+// za kraj Ath malo ide na MDN kako bi pokazao kako ga koristiti. Nalazi "slice" i pokazuje da moramo imati pocetni index a [, endIndex] su opcijski (znacenje []).

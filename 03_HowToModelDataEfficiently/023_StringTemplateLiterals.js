@@ -6,6 +6,6 @@
 let animal = 'pig'
 let sound = 'oink'
 let izjava = `Ta zivotinja  se zove ${animal} i glasa se sa ${sound}`
-izjava      // "Ta zivotinja  se zove pig i glasa se sa oink"
+console.log(izjava)       // "Ta zivotinja  se zove pig i glasa se sa oink"
 
 // osim math operacija, varijabli unutar {} mozemo stavljati i metode itd

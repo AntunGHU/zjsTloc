@@ -1,3 +1,7 @@
+// 3'33
+
+//app
+
 //We can nest conditionals!
 let password = 'hello  kitty';
 
@@ -12,3 +16,5 @@ if (password.length >= 6) {
 else {
 	console.log('Password must be longer!');
 }
+
+// mozemo ih gnjezditi koliko hocemo!

@@ -3,7 +3,7 @@
 // dolaze u quotes, singles or doubles, no mix ali moze quotes inside qouotes!
 
 let a = "antun"
-print(typeof(a))    //string
+console.log(typeof(a))    //string
 let j = "jerko"
 let fulName = a+j   // konkatinacija
 a + ' ' + j     // dodavanje spacea

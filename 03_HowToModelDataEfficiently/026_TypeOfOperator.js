@@ -6,4 +6,4 @@ typeof true // "boolean"
 typeof undefined    // "undefined"
 typeof null // "object"  - really odd part of js
 
-// za kraj kao korist u funkcijama 
+// za kraj istice kao korist "typeof" u funkcijama 

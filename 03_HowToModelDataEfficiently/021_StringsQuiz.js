@@ -14,16 +14,20 @@ song        // "london calling"
 
 // sto je value of cleanedInput
 let userInput = "   TODD@gmail.com"
-let cleanedInput = userInput.trim().toLocaleLowerCase // "todd@gmail.com"
+let cleanedInput = userInput.trim().toLocaleLowerCase() // "todd@gmail.com"
+console.log(cleanedInput)
 
 // sto je value of index
 let park = "Yelowwstone"
 const index = park.indexOf('Stone')     // -1
+console.log(index)
 
 
 // sto je value of index2
 let yell = "GO AWAY!!!"
 const index2 = yell.indexOf('!')     // 7
+console.log(index2)
 
 // sto daje
-'GARBAGE'.slice(2).replace("B", '')     // 'RAGE'
+let rage = 'GARBAGE'.slice(2).replace("B", '')     // 'RAGE'
+console.log(rage)
