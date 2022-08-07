@@ -9,11 +9,11 @@
 // je malo gnjavaze u odnosu na py-runner ali pojednostavit cu to tako da u svaku mapu  stavim index.html u koji cu editirati ime nasih fajlova.
 console.log()
 console.error('O NOO!!!')
-console.log(3+4, "hello", true)
+console.log(3 + 4, "hello", true)
 
 
 // Kopirano sa app
 
 alert('I AM A DIFFERENT SCRIPT!');
-console.log(2+7);
+console.log(2 + 7);
 console.log(3 + 4, 'hello', true);

@@ -9,4 +9,4 @@ let fulName = a + j   // konkatinacija
 a + ' ' + j     // dodavanje spacea
 
 // ali 
-"hi" + 1; "hi1"     // ne daje gresku nego konatinira!
+"hi" + 1; "hi1"     // ne daje gresku nego konkatinira!
