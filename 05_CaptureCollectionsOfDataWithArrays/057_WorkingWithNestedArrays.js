@@ -1,6 +1,6 @@
 // 6'04
 
-// app
+//* app
 
 const animalPairs = [
     ['doe', ['buck', 'stag']],

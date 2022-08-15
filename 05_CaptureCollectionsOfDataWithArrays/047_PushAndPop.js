@@ -1,6 +1,6 @@
 // 6'18
 
-// app
+//* app
 
 let topSongs = [
     'First Time Ever I Saw Your Face',
@@ -17,8 +17,9 @@ topSongs.push(12324166); // 7
 // To remove the last item
 topSongs.pop(); //12324166
 
-/* video
-metodi u videu + shift i unshift su grupirani kao oni koji dodaju ili oduzimaju sadrzaj array-a.
+//* video
+
+/* metodi u videu + shift i unshift su grupirani kao oni koji dodaju ili oduzimaju sadrzaj array-a.
 - MDN i opisi gomile metoda array-a
 - za razliku od string-ova koji su nepromjenjivi, dodavanje s push je inplace! */
 

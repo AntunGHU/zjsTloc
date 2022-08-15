@@ -9,7 +9,7 @@ const age = "5" + "4" // "54"
 
 // sto je value song-varijable
 let song = "london calling"
-song.toUpperCase // "LONDON CALLING"
+song.toUpperCase // "LONDON CALLING" // nije in place!!!
 song        // "london calling" 
 
 // sto je value of cleanedInput

@@ -1,6 +1,6 @@
 // 3'56
 
-//app
+//* app
 
 // FALSY:
 let loggedInUser = 0;
@@ -9,12 +9,14 @@ let loggedInUser = 0;
 loggedInUser = 'Thomas123';
 
 if (loggedInUser) {
-	console.log('YOU ARE LOGGED IN!');
+    console.log('YOU ARE LOGGED IN!');
 }
 else {
-	console.log('PLEASE LOG IN!');
+    console.log('PLEASE LOG IN!');
 }
 
+
+//* video
 // Ant: sve vrijednosti imaju "truthy" ili "falsy" boolean vrjednost
 // falsy: false, 0, "", null, undefined, NaN
 // truthy: sve drugo
@@ -37,7 +39,7 @@ else {
     console.log("FALSY")
 }
 
-mystery = 0/0
+mystery = 0 / 0
 
 if (mystery) {
     console.log("TRUTHY!")

@@ -1,18 +1,6 @@
 // 4'14
 
-let rating = 2
-
-if (rating  === 3) {
-    console.log("you are superstar!")
-}
-else if (rating === 2) {
-    console.log("you meet expectation")
-}
-else {
-    console.log(" Invalid rating!")
-}
-
-// Kopirano s app
+//* app
 
 // Performance Review
 // 3 - superstar
@@ -53,3 +41,6 @@ else {
 }
 
 // else (1) nije obavezan ali ako ga hocemo takodjer mora imati uvodni "if"
+
+//* video
+

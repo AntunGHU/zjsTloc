@@ -1,6 +1,6 @@
 // 2'13
 
-// app
+//* app
 
 let colors = ['red', 'orange', 'yellow', 'green', 'blue', 'indigo', 'violet'];
 
@@ -14,7 +14,7 @@ colors[6]; //'violet'
 
 colors[7]; //undefined
 
-//video
+//* video
 // reciklira gornje zapise
 // za dobiti zadnjeg elementa
 colors[colors.length - 1]; //'violet'

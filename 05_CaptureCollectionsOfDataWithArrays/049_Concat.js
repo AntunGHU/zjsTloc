@@ -1,6 +1,6 @@
 // 2'58
 
-// app
+//* app
 
 let fruits = ['apple', 'banana'];
 let veggies = ['asparagus', 'brussel sprouts'];
@@ -11,7 +11,7 @@ console.log(veggies.concat(fruits));
 
 let allFoods = fruits.concat(veggies, meats);
 
-// video
+//* video
 
 // concat merge arrays sa 1 ili vise drugih array-a. Ne mjenja orginal!
 // poredak u rezultantnoj ovisi kako smo ih poredali!

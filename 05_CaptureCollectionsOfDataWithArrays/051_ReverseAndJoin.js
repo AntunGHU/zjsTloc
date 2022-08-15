@@ -1,6 +1,6 @@
 // 3'24
 
-// app
+//* app
 
 let letters = ['T', 'C', 'E', 'P', 'S', 'E', 'R'];
 
@@ -15,7 +15,7 @@ let song3 = letters.reverse().join(' '); // 'R E S P E C T'
 
 let song4 = letters.reverse().join(); // 'T,C,E,P,S,E,R'
 
-// video
+//* video
 // iako pokusavamo sa deklaracijom nove varijable ipak reverse mjenja inplace.
 // join joina elemente u jedan string i pri tome ima zarez za default separator (slucaj kad je prazna zagrada npr join()) a kad sami odredjujemo separator mozemo sta hocemo staviti izmedju navodnih znakova npr ('#->')
 // ako primjenjujemo join na nestring on ih pretvara u string

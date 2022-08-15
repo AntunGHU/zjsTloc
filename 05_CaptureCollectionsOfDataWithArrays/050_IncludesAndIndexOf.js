@@ -1,6 +1,6 @@
 // 5'36
 
-// app
+//* app
 
 let ingredients = [
     'water',
@@ -23,7 +23,7 @@ if (ingredients.indexOf('shrimp') !== -1) {
     console.log('Sorry, I hate shrimp.');
 }
 
-// video
+//* video
 
 ingredients.includes('fish') // false; trazi direkt match
 

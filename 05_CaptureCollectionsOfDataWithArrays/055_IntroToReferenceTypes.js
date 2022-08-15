@@ -1,6 +1,6 @@
 // 5'04
 
-// app
+//* app
 
 // ===============
 // VALUE TYPES
@@ -33,3 +33,4 @@ myNums; //[2, 4, 6, 8, "BOO!"]
 
 
 //* video
+// njegove reference su bile ala ram-adrese sa puno znamenki

@@ -7,7 +7,7 @@
 
 // nalazenje karaktera po indeksu, ako indeksa nema daje "undefined", pojedini karakteri se ne mogu mjenjati!!
 "antun"[2] // t
-"antun"[2] = d      // ne javlja gresku ali ni ne mjenja slovo
+"antun"[2] = d      // ne javlja gresku ali ni ne mjenja slovo!!! jer su stringovi imutable!!!
 
 
 

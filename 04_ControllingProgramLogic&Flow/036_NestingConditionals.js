@@ -1,6 +1,6 @@
 // 3'33
 
-//app
+//* app
 
 //We can nest conditionals!
 let password = 'hello  kitty';

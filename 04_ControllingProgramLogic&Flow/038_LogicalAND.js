@@ -1,6 +1,6 @@
 // 7'16
 
-// app
+//* app
 
 // EXAMPLE 1
 let password = 'chicken Gal';
@@ -23,7 +23,7 @@ else {
 	console.log('Please guess a number between 1 and 10');
 }
 
-// ant:
+//* video
 // za razliku od Py-a gdje smo imali slova ovdje imamo simbolicke oznake: "and"==&&, "or"==||, "not"==!
 // oni su ljek protiv previse gnjezdjenja i ath se vraca na taj primjer! I to je "pros"
 // Medjutim, "contra" je da nemamo dodatni komadic infoa o tome sto nije ok ako nije ok, kao sto smo imali kod vise gnjezdjenja!

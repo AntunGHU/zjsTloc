@@ -1,6 +1,6 @@
 // 4'54
 
-// app
+//* app
 
 let animals = ['shark', 'salmon', 'whale', 'bear', 'lizard', 'tortoise'];
 
@@ -11,12 +11,12 @@ let mammals = animals.slice(2, 4); // (2) ['whale', 'bear']
 //One option:
 // let reptiles = animals.slice(4, 6);
 
-// Another option:
+// Another options:
 let reptiles = animals.slice(4);
 
 let quadruped = animals.slice(-3);
 
-// video
+//* video
 
 // slice ne mjenja orginal nego od njegovih djelova pravi novi array!
 // mozemo sa jednim indexom ili sa dva kad drugi nije ukljucen!

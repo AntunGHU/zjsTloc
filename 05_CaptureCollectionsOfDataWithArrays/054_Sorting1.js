@@ -1,6 +1,6 @@
 // 2'49
 
-// app
+//* app
 
 let people = ['Mrs. Robsinson', 'Angie', 'Jolene', 'Maggie May', 'Roxanne'];
 

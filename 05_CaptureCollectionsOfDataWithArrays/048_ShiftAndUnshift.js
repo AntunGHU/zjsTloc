@@ -1,6 +1,6 @@
 // 5'42
 
-// app
+//* app
 
 let dishesToDo = ['large platter'];
 
@@ -14,7 +14,7 @@ dishesToDo.unshift('spoon'); // 4
 //remove from the start:
 dishesToDo.shift(); // spoon
 
-// video
+//* video
 
 // unshift() dodaje na pocetak i vraca length  
 // ako unshift-amo 2+ itema odjednom dodaje ih kao cjelinu na pocetak! tj poredak ostaje isti kao i zadani! Isto je i sa "push" ako dodajemo na kraj 2+ itema.

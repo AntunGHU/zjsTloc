@@ -1,6 +1,6 @@
 // 8'04
 
-// app
+//* app
 
 let day = 7;
 
@@ -75,7 +75,7 @@ switch (emoji) {
 		break;
 }
 
-// ant
+//* video
 // swich nije tako cest kao if ali ponekad je vrlo koristan 
 // prednost u odnosu na if ovdje je sto sa if uvijek kod ide po redu i provjerava svaku liniju dok ne nadje a kod SWICH odmah skace na case!!!
 // kod swich imamo ":"

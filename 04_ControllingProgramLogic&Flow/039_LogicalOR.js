@@ -1,6 +1,6 @@
 // 5'52  
 
-//app
+//* app
 
 let age = 57;
 
@@ -17,8 +17,9 @@ let color = 'violete';
 if (color === 'purple' || color === 'lilac' || color === 'violet') {
 	console.log('GREAT CHOICE!');
 }
-else{console.log("Bljak!")}
+else { console.log("Bljak!") }
 
-// ant
+
+//* video
 // vidi se da je ath malo uredjivao jer mu je video kod bez space, sa space i mjesano dok je u app dosljedan sa 1 space!!
 // ja malo vjezbao kod i uocio da nema ni obaveznih Py-ovih dvotocki na kraju, takodjer sve moze u jednu liniju - vidi else u ex2

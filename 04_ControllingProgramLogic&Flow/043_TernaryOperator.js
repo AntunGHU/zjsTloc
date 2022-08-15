@@ -1,6 +1,6 @@
 // 4'19 
 
-// app
+//* app
 
 let num = 8;
 
@@ -25,18 +25,18 @@ let statuss = 'offline';
 let color;
 if (statuss === 'offline') {
 	color = 'red';
-    console.log(color)
+	console.log(color)
 }
 else {
 	color = 'green';
-    console.log(color)
+	console.log(color)
 }
 
 // One-liner using Ternary Operator...
 let color2 = statuss === 'offline' ? 'red' : 'green';
 console.log(color2);
 
-// ant
+//* video
 // ternary = 3 djela, binary = 2 djela
 // condition ? expIfTrue: expIfFalse
 // dakle ? mjenja "if" a ":" mjenja "else"
