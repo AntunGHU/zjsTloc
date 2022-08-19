@@ -32,4 +32,5 @@ ingredients.includes('fish') // false; trazi direkt match
 // za oba mozemo navesti i drugi argument kao index od kojeg trazimo to sto trazimo
 
 ingredients.includes('fish', 3)
-ingredients.indexOf('fish', 3) 
+console.log(ingredients.indexOf('fish', 3))
+console.log(ingredients.includes('fish', 3))

@@ -12,7 +12,7 @@ dishesToDo.unshift('cereal bowl'); // 3
 dishesToDo.unshift('spoon'); // 4
 
 //remove from the start:
-dishesToDo.shift(); // spoon
+const antun = dishesToDo.shift(); // spoon
 
 //* video
 

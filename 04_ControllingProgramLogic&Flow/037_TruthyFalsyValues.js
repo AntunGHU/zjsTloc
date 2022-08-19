@@ -30,27 +30,27 @@ else {
     console.log("FALSY")
 }
 
-mystery = 0
+let mystery2 = 0
 
-if (mystery) {
+if (mystery2) {
     console.log("TRUTHY!")
 }
 else {
     console.log("FALSY")
 }
 
-mystery = 0 / 0
+let mystery3 = 0 / 0
 
-if (mystery) {
+if (mystery3) {
     console.log("TRUTHY!")
 }
 else {
     console.log("FALSY")
 }
 
-mystery = ""
+let mystery4 = ""
 
-if (mystery) {
+if (mystery4) {
     console.log("TRUTHY!")
 }
 else {

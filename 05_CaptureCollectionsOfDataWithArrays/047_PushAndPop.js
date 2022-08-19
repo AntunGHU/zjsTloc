@@ -15,7 +15,7 @@ topSongs.push('Landslide'); // 6
 topSongs.push(12324166); // 7
 
 // To remove the last item
-topSongs.pop(); //12324166
+topSongs.pop(); //12324166 // vraca uklonjeni item 
 
 //* video
 
