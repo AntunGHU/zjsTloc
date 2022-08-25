@@ -3,7 +3,7 @@
 //* app
 
 //We can nest conditionals!
-let password = 'hello  kitty';
+let password = 'hellokitty';
 
 if (password.length >= 6) {
 	if (password.indexOf(' ') === -1) {

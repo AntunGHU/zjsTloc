@@ -11,21 +11,21 @@ let animals = ['shark', 'salmon', 'whale', 'bear', 'lizard', 'tortoise'];
 // =====================
 // 'at index 1, delete 0 items and insert "octopus"'
 animals.splice(1, 0, 'octopus');
-//["shark", "octopus", "salmon", "whale", "bear", "lizard", "tortoise"]
+console.log(animals)    // ["shark", "octopus", "salmon", "whale", "bear", "lizard", "tortoise"]
 
 // =====================
 // DELETING w/ SPLICE
 // =====================
 //'at index 5, delete 2 items'
 animals.splice(5, 2);
-//["shark", "octopus", "salmon", "whale", "bear"]
+console.log(animals)    // ["shark", "octopus", "salmon", "whale", "bear"]
 
 // =====================
 // REPLACING w/ SPLICE
 // =====================
 //'at index 3, delete 2 items and replace them with "orca" and "grizzly"'
 animals.splice(3, 2, 'orca', 'grizzly');
-// ["shark", "octopus", "salmon", "orca", "grizzly"]
+console.log(animals)    // ["shark", "octopus", "salmon", "orca", "grizzly"]
 
 //* video
 // dok su push, pop, unshift i shift metodi za ubacivanje na kraj tj pocetak, splice to cini unutar array-a na zeljeno mjesto! Sama akcija ima return obrisanih itemsa!

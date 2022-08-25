@@ -8,7 +8,7 @@ antun == false  // true
 
 // ako sad promjenimo vrijednost na nulu
 antun = 0 // i potom provjerimo sa ==
-antun == false // true je i dalje iako smo promjenili i iako false i 0 nisu isti 
+antun == false // true je i dalje iako smo promjenili i iako false i 0 nisu isti ali za == jesu,
 
-// ali za == jesu, zato
+// zato ===
 antun === false // false

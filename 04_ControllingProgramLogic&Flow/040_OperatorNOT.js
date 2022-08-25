@@ -16,7 +16,7 @@ if (!loggedInUser) {
 // EXAMPLE 2
 // ==================
 // WE ONLY HAVE GRAPE AND CHERRY FLAVORS!
-let flavor = 'watermelon';
+let flavor = 'waterlemon';
 
 //ONE WAY OF WRITING THIS:
 if (flavor !== 'grape' && flavor !== 'cherry') {

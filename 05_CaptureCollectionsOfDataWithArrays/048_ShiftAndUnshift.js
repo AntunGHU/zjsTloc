@@ -3,16 +3,25 @@
 //* app
 
 let dishesToDo = ['large platter'];
+console.log(dishesToDo)
+
 
 //to add to the start:
 dishesToDo.unshift('plate');  // 2
+console.log(dishesToDo)
 
 //add to the start again:
 dishesToDo.unshift('cereal bowl'); // 3
+console.log(dishesToDo)
+
 dishesToDo.unshift('spoon'); // 4
+console.log(dishesToDo)
+
 
 //remove from the start:
 const antun = dishesToDo.shift(); // spoon
+console.log(dishesToDo)
+
 
 //* video
 

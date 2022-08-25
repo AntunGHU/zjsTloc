@@ -3,7 +3,7 @@
 //* app
 
 // EXAMPLE 1
-let password = 'chicken Gal';
+let password = 'chickenGal';
 
 if (password.length >= 8 && password.indexOf(' ') === -1) {
 	console.log('VALID PASSWORD');
@@ -14,7 +14,7 @@ else {
 
 // EXAMPLE 2
 // Number must be between 1 and  10
-let num = 11;
+let num = 8;
 
 if (num >= 1 && num <= 10) {
 	console.log('Number is between 1 and 10');

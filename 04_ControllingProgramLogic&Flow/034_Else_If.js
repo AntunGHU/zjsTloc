@@ -8,7 +8,7 @@
 // 1 - needs improvement
 // anything else - wtf?
 
-rating = 1;
+let rating = 1;
 
 if (rating === 3) {
     console.log('YOU ARE A SUPERSTAR!');
@@ -23,12 +23,12 @@ else if (rating === 1) {
 
 //* video
 
-let rating = 2
+let rating2 = 2
 
-if (rating === 3) {
+if (rating2 === 3) {
     console.log("you are superstar!")
 }
-else if (rating === 2) {
+else if (rating2 === 2) {
     console.log("you meet expectation")
 }
 else {

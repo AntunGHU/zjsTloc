@@ -7,19 +7,25 @@ const animalPairs = [
     ['ewe', 'ram'],
     ['peahen', 'peacock']
 ];
+console.log(animalPairs);
 
 //To access 'ewe'
-animalPairs[1][0];
+a = animalPairs[1][0];
+console.log(a)
 
 //To access 'buck'
-animalPairs[0][1][0];
+b = animalPairs[0][1][0];
+console.log(b)
 
 //Updating a sub-array:
-animalPairs[0][1].push('hart');
+c = animalPairs[0][1].push('hart');
+console.log(c)      // [ 'buck', 'stag', 'hart' ]
+
 //apparently some people call male deer 'harts'.  idk.
 
 //* video
 
-animalPairs[0][1] // ['buck', 'stag', 'hart']
+d = animalPairs[0][1] // ['buck', 'stag', 'hart']
+console.log(d)
 
 // inside array-s mozemo staviti sto god hocemo! pa i druge array-se!

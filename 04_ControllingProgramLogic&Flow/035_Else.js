@@ -8,7 +8,7 @@
 // 1 - needs improvement
 // anything else - wtf?
 
-rating = 2;
+let rating = 2;
 
 if (rating === 3) {
 	console.log('YOU ARE A SUPERSTAR!');

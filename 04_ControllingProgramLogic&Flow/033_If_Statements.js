@@ -8,7 +8,7 @@ if (1 === 1) {
 }
 
 // Example 2
-rating = 3;
+let rating = 3;
 
 if (rating === 3) {
     console.log('YOU ARE A SUPERSTAR!');
@@ -23,12 +23,12 @@ if (num % 2 !== 0) {
 
 //* video
 
-let rating = 3
+let rating2 = 3
 
-if (rating === 3) {
+if (rating2 === 3) {
     console.log("you are superstar!")
 }
-else if (rating === 2) {
+else if (rating2 === 2) {
     console.log("you meet expectation")
 }
 else {

@@ -27,9 +27,10 @@ let myNums = nums; //myNums references the same array
 
 // If we change nums
 nums.push('BOO!');
+console.log(nums); //[2, 4, 6, 8, "BOO!"]
 
 //My nums is also changed:
-myNums; //[2, 4, 6, 8, "BOO!"]
+console.log(myNums); //[2, 4, 6, 8, "BOO!"]
 
 
 //* video
