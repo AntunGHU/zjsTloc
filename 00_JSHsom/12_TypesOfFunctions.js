@@ -9,10 +9,10 @@ greet('Antun', 'Jerkovic'); // Hello World, hello Antun Jerkovic
 
 // func koja racuna
 function square(number) {
-    return number * number;
+    return number ** number;
 }
 
-let number = square(2);
+let number = square(8);
 console.log(number); // 4  ili 
-console.log(square(2)); // 4 
+console.log(square(7)); // 4 
 

@@ -1,4 +1,4 @@
-// 11:41 Separation of Concerns     13:47 JavaScript in Node
+// 11:41 Separation of Concerns     13:47
 
 // Posto js-scripte mogu imati tisuce ili milione linija koda, naravno da ne pisemo sav taj kod u index.html. Zato ga pisemo u posebne fajlove npr index.js i povezujemo ih sa index.html tako da sad umjesto da pisemo js-kod izmedju 
 // ? <script>

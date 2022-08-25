@@ -1,11 +1,11 @@
-// 39:41 Functions      44:22 Types of Functions
+// 39:41 Functions      44:22
 
 // 3. vrsta objekata u js i jedna od temeljnih buildings blocks of js!
 
 function greet() {
     console.log('Hello World');
 }
-// kad je definiramo, na kraju ne treba (kao u varijablama) ; na kraju (unutra iza statement-a console.log treba) ali kad se poziva treba
+// kad je definiramo, na kraju ne treba (kao u varijablama) ; na kraju (unutra iza statement-a console.log treba) ili kad se poziva treba
 greet(); // Hello World
 
 // za malo raznolikosti!

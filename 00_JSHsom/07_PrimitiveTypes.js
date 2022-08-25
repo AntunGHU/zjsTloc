@@ -1,4 +1,4 @@
-// 23:35 Primitive Types        26:47 Dynamic Typing
+// 23:35 Primitive Types        26:47
 
 // U js imamo dvije kategorije: Primitive/Value Types i Reference Types
 // Primitive: String, Number, Boolean, undefined, null

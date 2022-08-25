@@ -4,11 +4,11 @@
 // Math object (jos jednom istice istovjetnost rjeci "object" i "class") a veliko slovo kao i u Py za klasu!!!
 // Ukucavajuci samo "Math." izbacuje tonu autocomplition mogucnosti tj metoda i propsa!
 
-Math.PI     // 3.141592
-Math.round(4.9) // 5
-Math.abs(-456)  // 456
-Math.pow(2, 5)   // 32
-Math.floor(3.999)   // 3
+console.log(Math.PI)                // 3.141592
+console.log(Math.round(4.9))        // 5
+console.log(Math.abs(-456))         // 456
+console.log(Math.pow(2, 5))         // 32
+console.log(Math.floor(3.999))      // 3
 
 //* posebno istice random metod i njegovu blesavost
 

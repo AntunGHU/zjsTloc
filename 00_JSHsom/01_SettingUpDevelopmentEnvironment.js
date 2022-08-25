@@ -1,4 +1,4 @@
-// 04:41 Setting Up the Development Environment     07:52 JavaScript in Browsers
+// 04:41 Setting Up the Development Environment     07:52
 
 // VSCode! Dld! Node! 
 //? sudo apt install nodejs npm

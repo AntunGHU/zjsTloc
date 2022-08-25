@@ -1,4 +1,4 @@
-// 13:47 JavaScript in Node     16:11 Variables
+// 13:47 JavaScript in Node     16:11
 
 // Sa komandom
 //? node 00_JSHsom/index.js

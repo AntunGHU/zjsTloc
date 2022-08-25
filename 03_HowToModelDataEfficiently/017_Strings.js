@@ -3,10 +3,11 @@
 // dolaze u quotes, singles or doubles, no mix ali moze quotes inside qouotes!
 
 let a = "antun"
-console.log(typeof a)    //string
+console.log(typeof a)       // string
 let j = "jerko"
-let fulName = a + j   // konkatinacija
-a + ' ' + j     // dodavanje spacea
+let fulName = a + j         // konkatinacija
+console.log(fulName)        // antunjerko 
+console.log(a + ' ' + j)    // antun jerko      // dodavanje spacea  
 
 // ali 
-"hi" + 1; "hi1"     // ne daje gresku nego konkatinira!!!!
+console.log("hi" + 1);      // "hi1"            // ne daje gresku nego konkatinira!!!!

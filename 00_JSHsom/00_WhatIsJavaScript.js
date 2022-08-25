@@ -1,11 +1,11 @@
-// 00:00 What is JavaScript 04:41 Setting Up the Development Environment
+// 00:00 What is JavaScript     04:41
 
 // JS jedan od najpopularnijih jezika
 // FrontEnd, BackEnd i FullStack Development
 
-// Pravi: Web/Mobile Apps, RealTimeNetworkingApps, CommanlineTools, Games
+// Pravi: Web/Mobile Apps, RealTimeNetworkingApps, CommandlineTools, Games
 
-// JS-kod run-a u JSEnginima u Browserima i u Node-u (JSEJSEnginingine u C++) tj izvan browsera cime je postalo moguce pisati Backend i Mobapps u JS
+// JS-kod run-a u JSEnginima u Browserima i u Node-u (JSEngine u C++) tj izvan browsera cime je postalo moguce pisati Backend i Mobapps u JS
 
 // JScript i EcmaScript(standardizacija JS coda)
 

@@ -1,4 +1,4 @@
-// 16:11 Variables      21:49 Constants
+// 16:11 Variables      21:49
 
 // pocinje spominjanjem "var" oznake za varijablu ali zbog issues-a ona se vise ne koristi!
 //? let name;
