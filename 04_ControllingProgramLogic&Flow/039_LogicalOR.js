@@ -2,7 +2,7 @@
 
 //* app
 
-let age = 57;
+let age = 5;
 
 if (age < 6 || age >= 65) {
 	console.log('YOU GET IN FOR FREE');
@@ -13,7 +13,7 @@ else {
 
 // EXAMPLE 2
 // WE CAN USE MULTIPLE OR's:
-let color = 'violete';
+let color = 'violet';
 if (color === 'purple' || color === 'lilac' || color === 'violet') {
 	console.log('GREAT CHOICE!');
 }

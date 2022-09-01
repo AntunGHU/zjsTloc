@@ -6,7 +6,7 @@
 let msg = "antisa"
 console.log(msg.toUpperCase())          // "ANTISA" sto je novi string kojeg mozemo snimiti u varijablu, stari "msg" se nije promjenio!
 msg = msg.toLowerCase() // sad je msg promjenjen!
-console.log(msg)                        // anisa
+console.log(msg)                        // antisa
 // trim - metod uklanjanja praznih mjesta ispred ili iza
 let ime = "   Antisa   "
 console.log(ime.trim())                 // "Antisa"

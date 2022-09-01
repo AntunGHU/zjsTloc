@@ -8,7 +8,8 @@ antun == false  // true
 
 // ako sad promjenimo vrijednost na nulu
 antun = 0 // i potom provjerimo sa ==
-antun == false // true je i dalje iako smo promjenili i iako false i 0 nisu isti ali za == jesu,
+console.log(antun)
+console.log(antun == false) // true je i dalje iako smo promjenili i iako false i 0 nisu isti ali za == jesu,
 
 // zato ===
-antun === false // false
+console.log(antun === false) // false

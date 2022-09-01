@@ -12,7 +12,7 @@ function square(number) {
     return number ** number;
 }
 
-let number = square(8);
-console.log(number); // 4  ili 
+let potencija = square(8);
+console.log(potencija); // 4  ili 
 console.log(square(7)); // 4 
 

@@ -4,6 +4,7 @@
 
 //We can nest conditionals!
 let password = 'hellokitty';
+console.log(password.indexOf(' '))
 
 if (password.length >= 6) {
 	if (password.indexOf(' ') === -1) {

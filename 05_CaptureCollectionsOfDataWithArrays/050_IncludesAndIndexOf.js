@@ -31,5 +31,5 @@ console.log(ingredients.includes('fish')) // false; trazi direkt match
 
 // za oba mozemo navesti i drugi argument kao index od kojeg trazimo to sto trazimo
 
-console.log(ingredients.includes('fish', 3))
-console.log(ingredients.indexOf('fish', 3))
+console.log(ingredients.includes('flour', 2))
+console.log(ingredients.indexOf('flour', 2))

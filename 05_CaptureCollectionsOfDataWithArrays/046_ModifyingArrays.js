@@ -11,8 +11,9 @@ console.log(shoppingList)
 
 //To add Ice Cream to the end
 //Only works if array is 2 items long...
-shoppingList[2] = 'Ice Cream';
+shoppingList[3] = 'Ice Cream';  // [ 'Cheddar Cheese', 'Whole Milk', <1 empty item>, 'Ice Cream' ]
 console.log(shoppingList)
+console.log(typeof shoppingList[2]) // undefined
 
 //To make sure you add to the end, no matter the length of the array:
 shoppingList[shoppingList.length] = 'Tomatoes';
