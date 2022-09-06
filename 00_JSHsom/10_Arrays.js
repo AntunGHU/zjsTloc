@@ -14,5 +14,5 @@ selectedColors[2] = 2
 console.log(selectedColors[2]) // 2
 console.log(selectedColors) // [ 'red', 'blue', 2 ]
 
-typeof selectedColors //object i kao takav ima gomilu propsa! npr
+typeof selectedColors //object (! A NE ARRAY!) i kao takav ima gomilu propsa! npr
 console.log(selectedColors.length) // 3

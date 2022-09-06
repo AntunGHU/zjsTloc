@@ -14,5 +14,5 @@ function square(number) {
 
 let potencija = square(8);
 console.log(potencija); // 4  ili 
-console.log(square(7)); // 4 
+console.log(square(7)); // 49
 

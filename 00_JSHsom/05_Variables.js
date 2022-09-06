@@ -12,7 +12,7 @@ console.log(name);
 //----ne mogu biti reserved keywords (let, if, itd - ne treba ih pamtiti jer svaki pokusaj da ih se stavi rezultira greskom!!)
 //----trebaju biti sa smislom i logikom u vezi onog sto nose! (ne a1, x, itd)
 //----ne mogu poceti s brojevima
-//----ne mogu imati space ili ~
+//----ne mogu imati space ili -
 //----camelCase za vise rjeci
 //----voditi racuna da je js case-sensitive!
 //----ako zelim u jednoj liniji mogu deklarirati vise varijabli:
