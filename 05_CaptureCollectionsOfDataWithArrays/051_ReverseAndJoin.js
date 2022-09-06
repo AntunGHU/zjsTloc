@@ -28,3 +28,6 @@ console.log(a)
 
 b = [12.3, true, 8].join('#<->#') // '12.3#->true#->8'
 console.log(b)
+
+b = [12.3, true, 8].reverse() // [ 8, true, 12.3 ]
+console.log(b)
