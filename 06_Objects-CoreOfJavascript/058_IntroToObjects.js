@@ -1,6 +1,6 @@
 // 6'51
 
-// opet ala dict prica: zasto array iako moguc nije idealan za podatke s vise komponenti, nije jasn stakoji podatak predstavlja!
+// opet ala dict prica: zasto array iako moguc nije idealan za podatke s vise komponenti, nije jasno sta koji podatak predstavlja!
 
 // app
 

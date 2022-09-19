@@ -52,3 +52,19 @@ for (attribute in shark) {
 for (attribute in shark) {
     console.log(`${attribute}`.toUpperCase() + `: ${shark[attribute]}`);
 }
+
+// Pdf-example:
+
+const jepardyWinnings = {
+    regularPlay: 2522700,
+    watsonChalenge: 300000,
+    tournamentOfChampions: 500000,
+    battleOfTheDecades: 100000
+};
+
+let total = 0;
+for (let key in jepardyWinnings) {
+    total += jepardyWinnings[key];
+}
+
+console.log(`Ken Jenning's Total Winnings:: $${total}`)
