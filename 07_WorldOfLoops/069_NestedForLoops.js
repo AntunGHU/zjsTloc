@@ -27,3 +27,17 @@ for (let i = 0; i < gameBoard.length; i++) {
         totalScore += row[j];
     }
 }
+console.log(totalScore);
+
+// video
+
+for (let i = 0; i < gameBoard.length; i++) {
+    let row = gameBoard[i];
+    console.log(row);
+    //inner loop iterates over each cell in a given row
+    for (let j = 0; j < row.length; j++) {
+        console.log(row[j]);
+        console.log(totalScore += row[j]);
+    }
+}
+console.log(totalScore);
