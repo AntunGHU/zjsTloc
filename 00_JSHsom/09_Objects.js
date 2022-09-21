@@ -1,7 +1,6 @@
 // 30:06 Objects        35:22
 
 // Jedan od tzv ReferenceTypes of data u koje jos spadaju Array-si i Funkcije!
-
 // Objekt je kao i u stvarnom zivotu: ime, adresa itd tako da umjesto deklariranja dvije varijable
 //? let name = 'Mosh'
 //? let age = 30
@@ -33,3 +32,5 @@ console.log(person['name']) // Antun
 // dot je kraci i jednostavniji i kao takav je def-choice ali i bracket notation ima svoje mjesto: npr ponekad ne znamo ime propsa tjekom runtimea (age, name) pa ga kao takvog treba dobiti od usera koji ga tjekom runtimea unosi!!! 
 let selection = 'name' // u takvim slucajevima koristeci bracket-notation dobijamo taj unos na dinamicki nacin!!!
 person[selection] // sto ce nam dati unos!
+
+console.log(typeof person) // 40

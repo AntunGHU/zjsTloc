@@ -5,7 +5,7 @@
 function greet() {
     console.log('Hello World');
 }
-// kad je definiramo, na kraju ne treba (kao u varijablama) ; na kraju (unutra iza statement-a console.log treba) ili kad se poziva treba
+// kad je definiramo, na kraju ne treba ";"(kao u varijablama) (unutra iza statement-a console.log treba) ili kad se poziva treba
 greet(); // Hello World
 
 // za malo raznolikosti!
@@ -22,3 +22,5 @@ function greet3(name, lastName) {
 
 greet3('Antun'); // Hello World, hello Antun undefined
 greet3('Antun', 'Jerkovic'); // Hello World, hello Antun Jerkovic
+
+console.log(typeof greet)

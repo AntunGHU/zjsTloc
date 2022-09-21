@@ -3,7 +3,7 @@
 // pocinje spominjanjem "var" oznake za varijablu ali zbog issues-a ona se vise ne koristi!
 //? let name;
 //? console.log(name);
-// i dok god stanje ovako js-en vraca 'undefined'. Cesce se koristi single-kvote u js!!
+// i dok god je stanje ovako js-en vraca 'undefined'. Cesce se koristi single-kvote u js!!
 // Nakon sto smo pridruzili ime 
 let name = 'Mosh';
 console.log(name);
