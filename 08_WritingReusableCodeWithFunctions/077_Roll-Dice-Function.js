@@ -1,3 +1,5 @@
+// 3'23
+
 // Define our first function
 function rollDie() {
 	// Pick a random number from 1-6
