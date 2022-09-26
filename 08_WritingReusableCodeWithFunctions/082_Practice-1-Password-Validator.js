@@ -66,6 +66,7 @@ function isValidPassword(password, username) {
     }
     return true;
 }
+
 console.log(isValidPassword('antunijus', 'antun'))
 
 // treci pristup sa deklariranjem varijabli:
@@ -77,7 +78,6 @@ function isValidPassword(password, username) {
     if (tooShort || hasSpace || tooSimilar) return false;
     return true;
 }
-
 
 console.log(isValidPassword('antonijus', 'antun'))
 

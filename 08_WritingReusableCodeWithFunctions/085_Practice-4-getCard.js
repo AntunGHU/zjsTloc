@@ -13,6 +13,7 @@
 
 
 // Solution
+// prvi i kompleksniji-duzi nacin
 
 function getCard() {
     const values = [
@@ -38,6 +39,8 @@ function getCard() {
     const suit = suits[suitIdx];
     return { value: value, suit: suit };
 }
+
+// drugi i jasniji nacin sa 2 funkcije!
 
 function pick(arr) {
     //return random element from arr

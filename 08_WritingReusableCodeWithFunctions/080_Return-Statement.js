@@ -19,4 +19,4 @@ const total = add(4, 9); //13
 const scream = 'hello'.toUpperCase();
 console.log(scream)
 // pokazuje u konzoli sa znakom <. return a bez njega samo izlaz konzole!
-// ali, realno, ne printamo mnogo na konzolu!!! a pokusaji storniranja sa outputanjem konzole ne rade!!! Zato RETURN!
+// ali, realno, ne printamo mnogo na konzolu!!! a pokusaji storea sa outputanjem konzole ne rade!!! Zato RETURN!
