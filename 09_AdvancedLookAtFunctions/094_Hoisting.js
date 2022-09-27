@@ -1,12 +1,14 @@
+// 8'10
+
 // variables declared with var are hoisted
-// console.log(animal);
+// console.log(animal);       //? kaze "undefined" a ne daje gresku kao da vara uopce neme - hoisting (dizanje, povlacenje). Izbjegavanje sa pravim redoslijedom koda: prvo inicijalizacija pa potezanje varijable!
 // var animal = 'Tapir';
-// console.log(animal);
+// console.log(animal);       //? Tapir
 
 
 // variables declared with let & const are not hoisted
 // const shrimp = 'Harlequin Shrimp';
-// console.log(shrimp);
+// console.log(shrimp);       // Harlequin Shrimp
 
 // function statements are hoisted
 // howl();
@@ -21,3 +23,6 @@ hoot()
 var hoot = function () {
   console.log("HOOOO HOOOOO")
 }
+
+// video
+// HOISTING: ne sikirati se ako zbunjuje!

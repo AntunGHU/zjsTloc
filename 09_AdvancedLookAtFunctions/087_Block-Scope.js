@@ -1,3 +1,5 @@
+// 12'07
+
 // let & const are BLOCK SCOPED
 if (true) {
   const animal = 'eel';
@@ -17,7 +19,7 @@ console.log(animal); //'eel'
 // for (var i = 0; i < animals.length; i++) {
 //   console.log(i, animals[i])
 // }
-// console.log(i)
+// console.log(i)  // 3 !? a trebao bi biti 10 kako smo ga definirali glob
 
 
 // let animals = ['grizzly bear', 'panda bear', 'spectacled bear'];
@@ -25,7 +27,7 @@ console.log(animal); //'eel'
 // for (let i = 0; i < animals.length; i++) {
 //   console.log(i, animals[i])
 // }
-// console.log(i) 
+// console.log(i)  // 10 kako je i definiran!!!
 
 
 function doubleArr(arr) {

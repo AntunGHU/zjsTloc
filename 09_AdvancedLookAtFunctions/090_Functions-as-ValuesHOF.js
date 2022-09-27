@@ -1,3 +1,5 @@
+// 7'19 HOF Video se zove "Higher Order Functions"
+
 function add(x, y) {
   return x + y;
 }
@@ -27,4 +29,7 @@ for (let func of operations) {
 const thing = {
   doSomething: multiply
 }
-thing.doSomething(4, 5) //20
+let res = thing.doSomething(4, 5) //20
+console.log(res)
+
+// Video osim drugacijeg naziva od poglavlja donosi i dodatnu zbunjolu u obliku "funs as objects" a ne "Funs as Values" sto je naziv videa!

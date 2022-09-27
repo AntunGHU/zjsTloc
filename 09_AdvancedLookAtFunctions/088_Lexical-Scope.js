@@ -1,3 +1,5 @@
+// 6'36
+
 function outer() {
   let movie = 'Amadeus';
 
@@ -15,3 +17,5 @@ function outer() {
 }
 
 outer(); //'AMADEUS'
+
+// inner funs dohvacaju prvo svoj scope pa ako u njemu ne nadju idu prema vanjskim skopima. Obrnuto ne vazi!

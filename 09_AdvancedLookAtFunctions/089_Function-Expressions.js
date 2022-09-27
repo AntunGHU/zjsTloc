@@ -1,3 +1,5 @@
+// 5'40
+
 // Function Statement
 function add(x, y) {
   return x + y;

@@ -1,15 +1,17 @@
+// 7'01
+
 //These variables are SCOPED to the function
 function lol() {
   let person = 'Tom';
   const age = 45;
   var color = 'teal';
-  console.log(age);
+  console.log(age); // 45
 }
 // These variables are SCOPED to changeColor()
 function changeColor() {
   let color = 'purple';
   const age = 19;
-  console.log(age);
+  console.log(age); // 19
 }
 lol();
 changeColor();
@@ -27,3 +29,6 @@ function birdWatch() {
 }
 birdWatch();
 console.log(bird); //"mandarin duck"
+
+// video
+// SCOPE - varijable "visibility": location where a variable is defined dictates where we have access to that variable
