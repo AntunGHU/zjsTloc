@@ -1,3 +1,7 @@
+// 8'55
+
+// Ne moramo samo akumulirati - npr max, moze imati initialValue
+
 const grades = [87, 64, 96, 92, 88, 99, 73, 70, 64];
 
 // One approach to find max using reduce:
@@ -27,3 +31,5 @@ const minGrade = grades.reduce((min, currVal) => (
 const total = [10, 20, 30, 40, 50].reduce((sum, currVal) => {
   return sum + currVal;
 }, 1000) //sum starts at 1000, then each element is added to it
+
+console.log(maxGrade, minGrade, total)

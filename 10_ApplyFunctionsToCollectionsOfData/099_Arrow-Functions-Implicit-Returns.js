@@ -1,3 +1,5 @@
+// 9'31 Implicit i One-line
+
 // "Regular" arrow function:
 const square = n => {
   return n * n;

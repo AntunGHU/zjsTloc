@@ -1,3 +1,7 @@
+// 8'49
+
+// Results in a single value out of elements of array. Accumulator ili total. Primjer videa je accumulator + currentValue
+
 const nums = [3, 4, 5, 6, 7];
 // To multiply all values in nums:
 const product = nums.reduce((total, currentVal) => {

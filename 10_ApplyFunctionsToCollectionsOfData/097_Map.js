@@ -28,7 +28,7 @@ console.log(numDetail) // AJ dodao! bez return 8x undefined!!
 //   { value: 26, isEven: true },
 //   { value: 27, isEven: false }
 // ]
-// Pokazuje malo u kontekstu kako se slicne akrobacije izvode sa for of loop ali obcno je s njima teze!!!
+// Pokazuje malo u kontekstu kako se slicne akrobacije izvode sa for of loop ali obicno je s njima teze!!!
 
 const abbrevs = words.map(function (word) {
   return word.toUpperCase().split('').join('.');

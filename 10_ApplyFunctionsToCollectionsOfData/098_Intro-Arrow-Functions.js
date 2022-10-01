@@ -1,3 +1,5 @@
+// 6'14 Novost u JS: syntyctically compact alternative to a regular fun-expression
+
 //Non-arrow function expression:
 // const square = function (x) {
 //   return x * x;
