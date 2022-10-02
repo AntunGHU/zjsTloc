@@ -1,6 +1,6 @@
 // 26:47 Dynamic Typing     30:06
 
-// js spada u dynamic-type of langugages
+// js spada u dynamic-type of languages
 // dok static type ne dopustaju promjenu tipa deklarirane varijable js da!
 
 // static
@@ -10,4 +10,4 @@ let ime = 10
 console.log(typeof ime)// upoznajemo se i sa typeof!!! another keyword!
 let selectedColor = null
 typeof selectedColor // object!?!?!
-console.log(typeof selectedColor)// object!?!?!
+console.log(typeof selectedColor, ime)// object!?!?!

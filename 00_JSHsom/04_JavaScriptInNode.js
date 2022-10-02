@@ -4,8 +4,7 @@
 //? node 00_JSHsom/index.js
 // izveo kod
 //? console.log("Hello World from Nodejs!")
-// i dobio u termu odziv
-//? Hello World from Nodejs!
+// i dobio u termu odziv //? Hello World from Nodejs!
 // sto je dokaz da nodejs jest program koji sadrzi js-engine kao i browseri! Dakle, node je runtime-environment za izvrsavanje js-koda!
 
 // posebno tip-a mogucnost koristenja terma u okviru VSCoda tako da ne moramo otvarati poseban terminal! c` - kratica. 

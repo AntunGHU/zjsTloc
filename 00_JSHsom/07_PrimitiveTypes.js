@@ -16,3 +16,4 @@ let lastName = null //kad jasno zelimo ocistiti value of variable!! a poslije mo
 let selectedColor = null
 selectedColor = 'red'
 // es6 ima jos i symbol ali o tom po tom!
+console.log(name, age, isApproved, lastName, selectedColor)

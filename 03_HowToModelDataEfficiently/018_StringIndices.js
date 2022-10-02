@@ -3,7 +3,7 @@
 // svaki karakter ima svoj indeks - zato su stringovi odered data type!
 
 // svaki string ima property "lenght" koji racuna sve, karaktere i praznine itd
-console.log("antun je zapravo antuntun".length)      // 5
+console.log("antun je zapravo antuntun".length)      // 25
 
 // nalazenje karaktera po indeksu, ako indeksa nema daje "undefined", pojedini karakteri se ne mogu mjenjati!!
 console.log("antun"[2])         // t
