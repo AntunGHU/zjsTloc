@@ -1,7 +1,6 @@
 // 9'57
 
 //* app
-
 console.log()
 console.error('O NOO!!!')
 console.log(3 + 4, "hello", true)

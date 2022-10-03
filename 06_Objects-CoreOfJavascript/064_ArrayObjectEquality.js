@@ -30,4 +30,4 @@ if (!user.notifications.length) {
 
 // ista prica je i za objekte!
 // {} === {}  // false
-// tj isti su samo ako pointaju na istu referencu tj ako se jedan defimira preko drugog!
+// tj isti su samo ako pointaju na istu referencu tj ako se jedan definira preko drugog!
