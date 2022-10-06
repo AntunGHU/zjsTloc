@@ -5,14 +5,14 @@
 const votes = ['y', 'y', 'n', 'y', 'n', 'y', 'n', 'y', 'n', 'n', 'n', 'y', 'y'];
 
 // To tally the votes:
-// const results = votes.reduce((tally, val) => {
-//   if (tally[val]) {
-//     tally[val]++
-//   } else {
-//     tally[val] = 1;
-//   }
-//   return tally;
-// }, {})
+const results0 = votes.reduce((tally, val) => {
+  if (tally[val]) {
+    tally[val]++
+  } else {
+    tally[val] = 1;
+  }
+  return tally;
+}, {})
 
 // The shorter version:
 const results = votes.reduce((tally, val) => {

@@ -1,7 +1,7 @@
 // 8'10
 
 // variables declared with var are hoisted
-// console.log(animal);       //? kaze "undefined" a ne daje gresku kao da vara uopce neme - hoisting (dizanje, povlacenje). Izbjegavanje sa pravim redoslijedom koda: prvo inicijalizacija pa potezanje varijable!
+// console.log(animal);       //? "undefined" a ne greska kao da vara neme - hoisting (dizanje, povlacenje). Izbjegavanje sa pravim redoslijedom koda: prvo inicijalizacija pa potezanje varijable!
 // var animal = 'Tapir';
 // console.log(animal);       //? Tapir
 

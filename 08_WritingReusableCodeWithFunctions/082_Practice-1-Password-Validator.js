@@ -13,8 +13,8 @@
 // isValidPassword('dogLuvr123!', 'dogLuvr') //false
 // isValidPassword('hello1', 'dogLuvr') //false
 
-//let username = 'antun'
-//let password = 'fjskkf18'
+let username = 'antun'
+let password = 'fjskkf18'
 
 function isValidPassword(password, username) {
     if (password.length >= 8 && password.indexOf(' ') === -1 && password.indexOf(username) === -1) {
@@ -23,7 +23,7 @@ function isValidPassword(password, username) {
     return false
 }
 
-//console.log(isValidPassword(password, username))
+console.log(isValidPassword(password, username))
 
 // kraci nacin
 
@@ -31,7 +31,7 @@ function isValidPassword(password, username) {
     return (password.length >= 8 && password.indexOf(' ') === -1 && password.indexOf(username) === -1)
 }
 
-//console.log(isValidPassword(password, username))
+console.log(isValidPassword(password, username))
 
 
 // video
