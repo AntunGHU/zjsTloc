@@ -16,9 +16,12 @@ console.log(person) // { name: 'Mosh', age: 30 }
 // za dobijanje propsa iz objekata imamo dva nacina:
 // 1. Dot.notation:
 console.log(person.age) // 30
+console.log(person.age)
 console.log(person.name) // Mosh
+console.log(person.name)
 // mozemo s njom i mjenjati vrijednost propsa
 person.age = 40
+person.age = 60
 console.log(person.age) // 40
 // 2. Bracket notation
 console.log(person['age']) // 40

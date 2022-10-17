@@ -23,4 +23,4 @@ function greet3(name, lastName) {
 greet3('Antun'); // Hello World, hello Antun undefined
 greet3('Antun', 'Jerkovic'); // Hello World, hello Antun Jerkovic
 
-console.log(typeof greet)
+console.log(typeof greet) // function!?!?!s
