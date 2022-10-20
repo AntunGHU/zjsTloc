@@ -68,3 +68,4 @@ function getCard() {
     const suits = ['clubs', 'spades', 'hearts', 'diamonds'];
     return { value: pick(values), suit: pick(suits) };
 }
+console.log(getCard());

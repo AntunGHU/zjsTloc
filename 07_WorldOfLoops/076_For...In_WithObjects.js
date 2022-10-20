@@ -4,9 +4,9 @@
 // The for...in statement iterates over all enumerable string properties of an object (ignoring properties keyed by symbols), including inherited enumerable properties.
 
 // Syntax
-//for (key in object) {
-// code block to be executed
-//}
+// for (key in object) {
+//  code block to be executed
+// }
 
 // Example
 const person = { fname: "John", lname: "Doe", age: 25 };

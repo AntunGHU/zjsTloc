@@ -13,6 +13,6 @@ grumpus();
 grumpus();
 grumpus();
 
-for (let i = 0; i < 50; i++) {
+for (let i = 0; i < 5; i++) {
     grumpus();
 }
