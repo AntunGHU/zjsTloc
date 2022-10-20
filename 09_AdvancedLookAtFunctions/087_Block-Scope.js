@@ -38,3 +38,5 @@ function doubleArr(arr) {
   }
   return result;
 }
+
+console.log(doubleArr([2, 3, 4, 5]));

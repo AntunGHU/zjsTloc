@@ -32,4 +32,4 @@ const thing = {
 let res = thing.doSomething(4, 5) //20
 console.log(res)
 
-// Video osim drugacijeg naziva od poglavlja donosi i dodatnu zbunjolu u obliku "funs as objects" a ne "Funs as Values" sto je naziv videa!
+// Video osim drugacijeg naziva od poglavlja donosi i dodatnu zbunjolu u obliku "funs as objects" a ne "Funs as Values" sto je naziv videa! Ok, najtocnije bi bilo "funs as values inside of an object"
