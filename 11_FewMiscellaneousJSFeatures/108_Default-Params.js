@@ -1,3 +1,5 @@
+// 7'58
+
 // The old way of adding a default value:
 // function multiply(x, y) {
 //   if (typeof y === 'undefined') {
@@ -33,3 +35,6 @@ multiply(3); //3
 // const greet = (person, greeting = 'hi', punctuation = '!') => {
 //   console.log(`${greeting}, ${person} ${punctuation}`)
 // }
+
+// video
+// Poredak: def-params uvijek iza obicnih!!!
