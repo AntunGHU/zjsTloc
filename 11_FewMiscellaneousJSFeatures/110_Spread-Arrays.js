@@ -1,3 +1,5 @@
+// 8'8
+
 const cephalopods = ['dumbo octopus', 'humboldt squid', 'flamboyant cuttlefish'];
 
 const gastropods = ['giant african snail', 'banana slug', 'variable neon slug'];
