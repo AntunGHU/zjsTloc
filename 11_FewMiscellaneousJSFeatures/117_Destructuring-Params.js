@@ -1,3 +1,5 @@
+// 5'04
+
 const runner = {
   first: "Eliud",
   last: "Kipchoge",
@@ -34,3 +36,5 @@ const response = [
 function parseResponse([protocol, statusCode, contentType]) {
   console.log(`Status: ${statusCode}`)
 }
+
+// video
