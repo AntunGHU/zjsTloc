@@ -1,3 +1,5 @@
+// 6'57
+
 // OLD WAY!
 // function sum() {
 //   const argsArr = [...arguments]
