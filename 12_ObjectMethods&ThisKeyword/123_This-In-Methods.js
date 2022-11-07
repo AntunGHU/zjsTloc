@@ -1,3 +1,5 @@
+// 7'15
+
 function sayHi() {
   console.log("HI")
   //this refers to the window (global scope object in the browser)
@@ -16,7 +18,7 @@ const person = {
       last,
       nickName
     } = this;
-    return `${first} ${last } AKA ${nickName}`;
+    return `${first} ${last} AKA ${nickName}`;
   },
   printBio() {
     const fullName = this.fullName();
