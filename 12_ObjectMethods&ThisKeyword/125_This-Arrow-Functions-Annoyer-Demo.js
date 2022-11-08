@@ -1,3 +1,5 @@
+// 14'03 pod naslovom "Annoyomatic Demo"
+
 const annoyer = {
   phrases: ["literally", "cray cray", "I can't even", "Totes!", "YOLO", "Can't Stop, Won't Stop"],
   pickPhrase() {

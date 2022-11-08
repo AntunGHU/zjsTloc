@@ -36,3 +36,5 @@ person.printBio(); //THIS refers to the person object
 
 const printBio = person.printBio;
 printBio(); //THIS refers to window object
+
+// arrow func ne dobija svoj this ali je svejedno korisna zato sto obicne funcs imaju issue.
