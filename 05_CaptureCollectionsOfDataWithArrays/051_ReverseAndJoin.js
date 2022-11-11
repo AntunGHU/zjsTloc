@@ -8,15 +8,23 @@ console.log(letters)
 //It reverses IN PLACE rather than making a copy
 let song = letters.reverse().join('.');     //"R.E.S.P.E.C.T"
 console.log(song)
+console.log(letters)
+
 
 let song2 = letters.reverse().join('');     // 'TCEPSER'
 console.log(song2)
+console.log(letters)
+
 
 let song3 = letters.reverse().join(' ');    // 'R E S P E C T'
 console.log(song3)
+console.log(letters)
+
 
 let song4 = letters.reverse().join();       // 'T,C,E,P,S,E,R'
 console.log(song4)
+console.log(letters)
+
 
 //* video
 // iako pokusavamo sa deklaracijom nove varijable ipak reverse mjenja inplace.

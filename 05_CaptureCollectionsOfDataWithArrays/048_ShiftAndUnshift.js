@@ -21,6 +21,7 @@ console.log(dishesToDo)
 //remove from the start:
 const antun = dishesToDo.shift(); // spoon
 console.log(dishesToDo)
+console.log(antun)
 
 
 //* video

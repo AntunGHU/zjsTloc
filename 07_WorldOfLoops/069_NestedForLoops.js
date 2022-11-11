@@ -30,14 +30,14 @@ for (let i = 0; i < gameBoard.length; i++) {
 console.log(totalScore);
 
 // video
-
+let totalScore2 = 0
 for (let i = 0; i < gameBoard.length; i++) {
     let row = gameBoard[i];
     console.log(row);
     //inner loop iterates over each cell in a given row
     for (let j = 0; j < row.length; j++) {
         console.log(row[j]);
-        console.log(totalScore += row[j]);
+        console.log(totalScore2 += row[j]);
     }
 }
-console.log(totalScore);
+console.log(totalScore2);
