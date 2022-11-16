@@ -23,6 +23,6 @@ hoot()
 var hoot = function () {
   console.log("HOOOO HOOOOO")
 }
-
+// hoot()
 // video
 // HOISTING: ne sikirati se ako zbunjuje!

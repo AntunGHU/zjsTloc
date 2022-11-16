@@ -4,7 +4,7 @@ function outer() {
   let movie = 'Amadeus';
 
   function inner() {
-    // let movie = "The Shining";
+    let movie = "The Shining";
 
     function extraInner() {
       //movie is not defined in this function
@@ -16,6 +16,6 @@ function outer() {
   inner();
 }
 
-outer(); //'AMADEUS'
+outer(); //'AMADEUS' (kad je The Shining komentiran) ili THE SHINING
 
 // inner funs dohvacaju prvo svoj scope pa ako u njemu ne nadju idu prema vanjskim skopima. Obrnuto ne vazi!
