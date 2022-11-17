@@ -1,6 +1,6 @@
 // 8'55
 
-// Ne moramo samo akumulirati - npr max, moze imati initialValue
+// Ne moramo samo akumulirati - npr max; a moze imati i initialValue
 
 const grades = [87, 64, 96, 92, 88, 99, 73, 70, 64];
 
@@ -14,6 +14,7 @@ const maxGrade0 = grades.reduce((max, currVal) => {
 const maxGrade = grades.reduce((max, currVal) => {
   return Math.max(max, currVal)
 });
+
 // Finding the min value using Math.min: 
 const minGrade = grades.reduce((min, currVal) => (
   //using implicit return for variety's sake

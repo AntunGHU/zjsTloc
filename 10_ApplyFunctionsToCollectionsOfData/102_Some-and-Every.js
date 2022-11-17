@@ -1,12 +1,11 @@
 // 6'20
 
-// tests whether all elements in array pass provided function. It returns Boolean value.
+// "every" tests whether all elements in array pass provided function. It returns Boolean value.
 
 const words = ["dog", 'dig', 'log', 'bag', 'wag'];
 
-//Is every word 3 characters long?
+// Is every word 3 characters long?
 const all3Letters = words.every(word => word.length === 3);
-
 console.log(all3Letters) // true
 
 // Do all words end in 'g'?
@@ -15,7 +14,7 @@ const allEndInG = words.every(word => {
   return word[last] === 'g'
 });
 
-//Does at least 1 book start with 'd'?
+// Does at least 1 book start with 'd'?
 const someStartWithD = words.some(word => word[0] === 'd');
 
 // Do all words start with 'd'?

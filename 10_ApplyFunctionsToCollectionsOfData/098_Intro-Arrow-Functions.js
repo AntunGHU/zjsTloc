@@ -10,12 +10,12 @@ const square = (x) => {
   return x * x;
 }
 
-//parens are option when you have 1 parameter
+// parens are option when you have 1 parameter
 const isEven = num => {
   return num % 2 === 0;
 }
 
-//Must include parens for multiple parameters
+// Must include parens for multiple parameters
 const multiply = (x, y) => {
   return x * y;
 }

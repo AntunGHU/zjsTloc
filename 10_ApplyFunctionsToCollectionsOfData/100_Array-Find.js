@@ -13,12 +13,10 @@ let movies = [
 const movie = movies.find(movie => {
   return movie.includes('Mrs');
 })
-
 console.log(movie)
 
-//Find first movie that begins with 'Mrs':
+// Find first movie that begins with 'Mrs':
 const movie2 = movies.find(m => m.indexOf("Mrs") === 0);
-
 console.log(movie2)
 
 
@@ -43,16 +41,14 @@ const books = [{
   rating: 4.36
 }
 ]
-//Find first book w/ rating over 4.3
+// Find first book w/ rating over 4.3
 const goodBook = books.find(b => b.rating >= 4.3);
-
 console.log(goodBook)
 
-//Find first book with Neil Gaiman as an author:
+// Find first book with Neil Gaiman as an author:
 const neilBook = books.find(b => (
   b.authors.includes('Neil Gaiman')
 ))
-
 console.log(neilBook)
 
 // puno ga koristimo, posebno sa identifikatorom kao id, npr za update post-a ili brisanje nekog kommenta i sl.

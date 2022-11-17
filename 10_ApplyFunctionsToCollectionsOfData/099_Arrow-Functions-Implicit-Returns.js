@@ -35,9 +35,11 @@ const parityList = nums.map(function (n) {
 const parityList1 = nums.map((n) => {
   if (n % 2 === 0) return 'even';
   return 'odd';
-});
+})
+
 const parityList2 = nums.map((n) => (
   n % 2 === 0 ? 'even' : 'odd'
 ));
 
 const parityList3 = nums.map((n) => n % 2 === 0 ? 'even' : 'odd');
+console.log(parityList3)
