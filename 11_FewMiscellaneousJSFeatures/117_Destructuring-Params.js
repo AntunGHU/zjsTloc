@@ -8,14 +8,15 @@ const runner = {
 }
 
 // Rather than destructuring INSIDE the function body
-// function print(person) {
-//   const {
-//     first,
-//     last,
-//     title
-//   } = person;
-//   console.log(`${first} ${last}, ${title}`)
-// }
+//? function print(person) {
+//?   const {
+//?     first,
+//?     last,
+//?     title
+//?   } = person;
+//?   console.log(`${first} ${last}, ${title}`)
+//? }
+//? print(runner) // Eliud Kipchoge, Elder of the Order of the Golden Heart of Kenya
 
 // We can unpack the values we want right in the parameter list:
 function print({
@@ -25,6 +26,7 @@ function print({
 }) {
   console.log(`${first} ${last}, ${title}`)
 }
+print(runner) // Eliud Kipchoge, Elder of the Order of the Golden Heart of Kenya
 
 const response = [
   'HTTP/1.1',
@@ -36,5 +38,7 @@ const response = [
 function parseResponse([protocol, statusCode, contentType]) {
   console.log(`Status: ${statusCode}`)
 }
+
+parseResponse(response) // Status: 200 OK
 
 // video

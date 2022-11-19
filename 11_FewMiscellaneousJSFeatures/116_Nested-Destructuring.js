@@ -29,3 +29,5 @@ country; //"Ethiopia"
 //? moze i direktno kao gore ali i u 2 koraka kao u videu:
 const [, silverMedal] = results;
 const { country: zemlja } = silverMedal;
+
+// zarezi su kljucni za precizno referenciranje! inace mozemo nestati!

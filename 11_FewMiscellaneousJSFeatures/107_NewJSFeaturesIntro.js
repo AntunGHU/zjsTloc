@@ -1,3 +1,3 @@
 // 1'42
 
-// New-ish features: Rest & Spread; Destructuring; Default Function Params
+// New-ish features: Default Function Params; Spread; Rest; Destructuring; 

@@ -31,7 +31,7 @@ const catDog = {
 }
 //{family: "Felidae", furry: true, legs: 4}
 
-//Order matters! Legs will be 3 here, because we set it AFTER spreading canine.
+//Order matters! Legs will be 3. here, because we set it AFTER spreading canine.
 const tripod = {
   ...canine,
   legs: 3,

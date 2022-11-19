@@ -17,7 +17,7 @@ const cephCopy = [...cephalopods];
 //["dumbo octopus", "humboldt squid", "flamboyant cuttlefish"]
 
 // video
-//? spominje "concat" kojim smo to sve mogli i prije dobiti ali novi (...) nacin je laksi razumjeti i brzi za izvesti!
+//? spominje "concat" kojim smo to sve mogli i prije dobiti ali novi (...) nacin je lakse razumjeti i brzi za izvesti!
 
 //? kopije sa (...) tj (const cephCopy = [...cephalopods]) stvaraju novi array dok bi jednostavno izjednacavanje (const copy = cephalopods) i dalje pointiralo na isti referenc-link. Dokaz sa ===. ALI, to se ne odnosi na nested arrays ili objects unutar arrays, oni ce ostati orginalni!!! Dakle, spreada u okviru samo 1 levela! 
 
