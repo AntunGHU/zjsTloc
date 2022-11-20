@@ -30,12 +30,17 @@ const getStats = (arr) => {
 const reviews = [4.5, 5.0, 3.44, 2.8, 3.5, 4.0, 3.5];
 
 const stats = getStats(reviews);
+console.log(stats)  // { max: 5, min: 2.8, sum: 26.74, avg: 3.82 }
+
+
+
 
 function pick(arr) {
   //return random element from arr
   const idx = Math.floor(Math.random() * arr.length);
   return arr[idx];
 }
+
 
 function getCard() {
   const values = [

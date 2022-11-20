@@ -25,3 +25,4 @@ const person = {
     console.log(`${fullName} is a person!`)
   }
 }
+person.printBio() // Cherilyn Sarkisian AKA Cher is a person!

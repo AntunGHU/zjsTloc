@@ -9,3 +9,10 @@ const auth = {
     console.log("GOODBYE")
   }
 }
+
+console.log(auth)
+//? {
+//?   username: 'TommyBot',
+//?   login: [Function: login],
+//?   logout: [Function: logout]
+//? }
