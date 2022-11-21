@@ -15,6 +15,7 @@ console.log(sumq(1, 2, 3, 4)) //10
 const multiply = () => {
   console.log(arguments);
 }
+multiply(3, 4)
 
 // video
 //? pocinje sa slajdom MEH gdje je upotreba arguments-a jednostavnije prikazana! Potom pokazuje primjer sum-funkcije
