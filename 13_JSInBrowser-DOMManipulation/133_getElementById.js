@@ -1,3 +1,5 @@
+// 6'08
+
 // To select the element with id of bear-photo:
 document.getElementById('bear-photo')
 
