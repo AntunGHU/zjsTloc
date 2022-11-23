@@ -1,3 +1,5 @@
+// 10'57
+
 // ****************
 // querySelector
 // ****************
@@ -23,3 +25,11 @@ document.querySelectorAll('li');
 
 // To find ALL elements with the class of special on the page:
 document.querySelectorAll('.special');
+
+//? video 
+// Dodao <section> tag (novi za mene) i kroz to dio css-sintakse: 'section ul li.special' za koji je jos kao opciju dodao i body ispred svega!
+
+// ispod jos jedna varijacija sa [] i type...
+document.querySelector('input[type="password"]');
+
+// All vraca kolekciju koja se zove NodeList takodjer array-like objec koji kao i HTML Collection ima length, values itd ali i forEach kojeg HTML Collection nema!!!

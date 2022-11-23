@@ -20,4 +20,4 @@ arr.pop() //this works because it's now an array!
 const ul = document.getElementsByTagName('ul')[0] // ul
 ul.getElementsByClassName('special') // i dobijem samo clasu unutar ul-a! ili 
 ul.getElementsByTagName('li') // i dobijem sve li
-// ovo pretrazivanje unutar drugog elementa (ul-a npr) nemozemo sa id-ima jer oni su samo po 1 pa nema smisla!!!
+// ovo pretrazivanje unutar drugog elementa (ul-a npr) ne mozemo sa id-ima jer oni su samo po 1 pa nema smisla!!!
