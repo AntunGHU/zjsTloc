@@ -1,3 +1,7 @@
+// 9'50
+
+// style property pokazuje samo inline style zbog cega je uglavnom prazan!
+
 // Changing the color and background-color:
 const h1 = document.querySelector('h1');
 h1.style.color = 'pink';
